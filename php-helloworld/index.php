@@ -1,3 +1,5 @@
-<?php
-<script type="text/javascript" src="file.js"></script>
+<?php 
+echo '<script type="text/JavaScript" src="file.js">
+     </script>'
+;
 ?>
