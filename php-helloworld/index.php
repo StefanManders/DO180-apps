@@ -1,16 +1,3 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+<script type="text/javascript" src="file.js"></script>
 ?>
