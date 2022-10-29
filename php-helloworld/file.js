@@ -1,2 +1,2 @@
-document.write('Hello Worldi Stefan Manders');
-document.write('Hello Worldi Stefan Manders');
+document.write('Hello World! Stefan Manders\n');
+document.write(gethostname());
